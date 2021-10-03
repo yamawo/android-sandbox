@@ -2,4 +2,6 @@
     <string name="app_name">ViewSample</string>
     <string name="tv_msg">お名前を入力して下さい。</string>
     <string name="bt_save">保存</string>
+    <string name="cb_drink">ドリンク</string>
+    <string name="cb_food">フード</string>
 </resources>
